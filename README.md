@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soumik Hasan.
 ![](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/457103790_1948506832259679_2328413890549662365_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEns9im45PoqfUsb1qdDsxs_3U4EQD42jv_dTgRAPjaOxv8DfX51b_uAL32jy1p4oJXxFyhmHVgzwelzILArLJf&_nc_ohc=JSoLVty-g1oQ7kNvgHiaUme&_nc_ht=scontent.fdac14-1.fna&_nc_gid=ATcF8m1le-3gDTjTuKsGUAK&oh=00_AYC0T7SucWoHrGyhj65Zq0VScZkLP73nuQUkLAstHBIQCQ&oe=66E8EF5A)
-
+![I am GitHub Readme Generator's creator](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/457103790_1948506832259679_2328413890549662365_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEns9im45PoqfUsb1qdDsxs_3U4EQD42jv_dTgRAPjaOxv8DfX51b_uAL32jy1p4oJXxFyhmHVgzwelzILArLJf&_nc_ohc=IIEbNFkMSxwQ7kNvgFlOKsQ&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AFGU5j9JNwFL3-6ipDroIEI&oh=00_AYA8y23LHXk_IXAlQfgyY47FG5kuxGter15a8T4gnE0_5A&oe=66F37B5A)
 Highly motivated and interested individual with a strong work ethic, exceptional organization skills and commitment to providing outstanding support. I am skilled at managing tasks, prioritizing responsibilities and adapting quickly. Also possesses a detail-oriented and proactive mindset Performance skills and passion for the Personal Assistant role, thrilled to contribute to success and professional growth.
 
 Skills: HTML / CSS/ JavaScript/ C/ C++/ Python/ Java
