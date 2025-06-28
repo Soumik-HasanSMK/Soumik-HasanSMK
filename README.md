@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soumik Hasan.
 
-Highly motivated and interested individual with a strong work ethic, exceptional organization skills and commitment to providing outstanding support. I am skilled at managing tasks, prioritizing responsibilities and adapting quickly. Also possesses a detail-oriented and proactive mindset Performance skills and passion for the Personal Assistant role, thrilled to contribute to success and professional growth.
+Highly driven and intellectually curious, I bring a strong work ethic, exceptional organizational skills, and a relentless commitment to excellence. With a versatile background in programming and a growing expertise in research—particularly in the field of Machine Learning—I thrive in dynamic environments that demand critical thinking and adaptability. My proactive mindset, attention to detail, and ability to manage complex tasks make me well-suited for roles that require both technical and strategic skills. Passionate about continuous learning and personal growth, I’m eager to contribute meaningfully to innovative projects and collaborative teams.
 
 Skills: HTML / CSS/ JavaScript/ C/ C++/ Python/ Java
 
