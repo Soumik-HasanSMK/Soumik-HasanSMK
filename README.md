@@ -5,18 +5,18 @@ Hi there! 👋 I'm Md. Soumik Hasan
 🔬 I enjoy building intelligent systems that solve real-world problems through research and practical applications. My interests include computer vision, medical image analysis, facial emotion recognition, and explainable AI.
 
 🛠️ Technical Skills
-  Programming Languages: Python, C, C++, Java, MATLAB
-  AI/ML: Machine Learning, Deep Learning, Computer Vision, Explainable AI (XAI)
-  Frameworks & Libraries: PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas
-  Web Development: Django, Django REST Framework
-  Tools & Platforms: Git, GitHub, Google Colab, Kaggle, Jupyter Notebook, VS Code, Overleaf, LaTeX
+  - Programming Languages: Python, C, C++, Java, MATLAB
+  - AI/ML: Machine Learning, Deep Learning, Computer Vision, Explainable AI (XAI)
+  - Frameworks & Libraries: PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas
+  - Web Development: Django, Django REST Framework
+  - Tools & Platforms: Git, GitHub, Google Colab, Kaggle, Jupyter Notebook, VS Code, Overleaf, LaTeX
 
 🌱 Current Focus
-  🤖 Deep Learning & Computer Vision
-  🧠 Explainable Artificial Intelligence (XAI)
-  🌿 AI for Healthcare and Medicinal Plant Recognition
-  😊 Facial Emotion Recognition
-  📊 Machine Learning Research & Publications
+🤖 Deep Learning & Computer Vision
+🧠 Explainable Artificial Intelligence (XAI)
+🌿 AI for Healthcare and Medicinal Plant Recognition
+😊 Facial Emotion Recognition
+📊 Machine Learning Research & Publications
 
 ### 🔗 Connect with me
 
