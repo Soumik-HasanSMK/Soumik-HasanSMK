@@ -11,11 +11,11 @@ Hi there! 👋 I'm Md. Soumik Hasan
   - Web Development: Django, Django REST Framework
   - Tools & Platforms: Git, GitHub, Google Colab, Kaggle, Jupyter Notebook, VS Code, Overleaf, LaTeX
 
-🌱 Current Focus
-🤖 Deep Learning & Computer Vision
-🧠 Explainable Artificial Intelligence (XAI)
-🌿 AI for Healthcare and Medicinal Plant Recognition
-😊 Facial Emotion Recognition
+## 🌱 Current Focus
+
+🤖 Deep Learning & Computer Vision<br>
+🧠 Explainable Artificial Intelligence (XAI)<br>
+🌿 AI for Healthcare and Agriculture<br>
 📊 Machine Learning Research & Publications
 
 ### 🔗 Connect with me
